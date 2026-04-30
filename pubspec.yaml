@@ -1,0 +1,32 @@
+name: chat_connect
+description: A  chat application
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  emoji_picker_flutter: ^4.4.0
+  # Firebase
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+  firebase_storage: ^13.0.4
+  js: ^0.7.2
+  # UI & Utils
+  provider: ^6.1.1
+  cached_network_image: ^3.3.1
+  image_picker: ^1.0.7
+  intl: ^0.20.2
+  uuid: ^4.3.3
+  swipe_to: ^1.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
