@@ -1,4 +1,4 @@
-#  Chat Connect - Real-Time Flutter Messaging App
+#  Chat Connect - Real Time Flutter Messaging App
 
 Chat Connect is a robust, cross platform messaging application built with **Flutter** and **Firebase**. This guide provides a comprehensive setup and installation walkthrough to get the project running on your local machine.
 
